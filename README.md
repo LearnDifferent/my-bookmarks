@@ -29,6 +29,11 @@ A collection for me to read.
 - [doocs/jvm](https://github.com/doocs/jvm)
     - JVM 底层原理最全知识总结
     - [阅读地址](https://jvm.netlify.app/)
+- [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide)
+    - 《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
+    - [阅读地址](http://notfound9.github.io/interviewGuide/)
+- [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer)
+    - 这是一个成为更好的Java程序员的系列教程
 - [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial)
     - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章
     - [阅读地址](https://how2playlife.com/)
