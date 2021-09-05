@@ -37,8 +37,19 @@ A collection for me to read.
 - [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial)
     - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章
     - [阅读地址](https://how2playlife.com/)
+- [dunwu/javacore](https://github.com/dunwu/javacore)
+    - 对 Java 核心技术的经验总结。
+    - [阅读地址](http://turnon.gitee.io/javacore/)
+- [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent)
+    - RedSpider社区成员原创与维护的Java多线程系列文章。
+    - [阅读地址](http://concurrent.redspider.group/RedSpider.html)
+- [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout)
+    - Java Core Sprout : basic, concurrent, algorithm（处于萌芽阶段的 Java 核心知识库）
+    - [阅读地址](https://crossoverjie.top/JCSprout/)
 - [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing)
     - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
+- [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
+    - [阅读地址](https://turnon.gitee.io/java-tutorial/)
 
 ## Codes
 
@@ -53,6 +64,9 @@ A collection for me to read.
 - [YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)
     - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。
     - [Blog](https://www.iocoder.cn/)
+- [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
+    - 30 seconds to collect useful Java 8 snippet.（在30秒或更短时间内收集有用的Java8代码片段）
+
 
 ## Tools
 
