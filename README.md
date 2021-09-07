@@ -5,6 +5,7 @@ A collection for me to read.
 ## Table of Contents
 
 * [Notes](#notes)
+* [Projects](#projects)
 * [Codes](#codes)
 * [Tools](#tools)
 * [READMEs](#readmes)
@@ -40,6 +41,8 @@ A collection for me to read.
 - [dunwu/javacore](https://github.com/dunwu/javacore)
     - 对 Java 核心技术的经验总结。
     - [阅读地址](http://turnon.gitee.io/javacore/)
+- [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
+    - [阅读地址](https://turnon.gitee.io/java-tutorial/)
 - [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent)
     - RedSpider社区成员原创与维护的Java多线程系列文章。
     - [阅读地址](http://concurrent.redspider.group/RedSpider.html)
@@ -48,8 +51,21 @@ A collection for me to read.
     - [阅读地址](https://crossoverjie.top/JCSprout/)
 - [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing)
     - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
-- [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
-    - [阅读地址](https://turnon.gitee.io/java-tutorial/)
+- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
+    - Describe complex matters in simple doodles. 编程涂鸦合集（一图胜千言），主要创作了包含数据结构与算法、Web 开发、机器学习等编程领域的涂鸦作品，其中有部分被应用到了微软的开源教程
+- [rbmonster/learning-note](https://github.com/rbmonster/learning-note)
+    - java开发 面试八股文（个人的面试及工作总结）
+
+## Projects
+
+- [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat)
+    - 一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
+    - [Docs](http://www.ballcat.cn/)
+    - Clone: `git clone git@github.com:ballcat-projects/ballcat.git`
+- [langhsu/mblog](https://github.com/langhsu/mblog)
+    - 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
+    - [Docs](https://langhsu.github.io/mblog/#/)
+    - Clone: `git clone git@github.com:langhsu/mblog.git`
 
 ## Codes
 
@@ -67,12 +83,13 @@ A collection for me to read.
 - [biezhi/30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
     - 30 seconds to collect useful Java 8 snippet.（在30秒或更短时间内收集有用的Java8代码片段）
 
-
 ## Tools
 
 - [justauth/JustAuth](https://github.com/justauth/JustAuth)
     - 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
     - [Docs](https://justauth.wiki/)
+- [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath)
+    - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
 
 ## READMEs
 
