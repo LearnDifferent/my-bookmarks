@@ -1,6 +1,6 @@
-# things-worth-reading
+# My Bookmarks
 
-A collection for me to read.
+A collection of awesome things.
 
 ## Table of Contents
 
