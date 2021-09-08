@@ -43,6 +43,12 @@ A collection of awesome things.
     - [阅读地址](http://turnon.gitee.io/javacore/)
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
     - [阅读地址](https://turnon.gitee.io/java-tutorial/)
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
+    - Java 程序员进阶之路，风趣幽默、通俗易懂，对 Java 初学者极度友好和舒适，内容包括但不限于 Java 语法、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机等核心知识点。
+    - [阅读地址](https://itwanger.gitee.io/tobebetterjavaer)
+- [moxi624/LearningNotes](https://github.com/moxi624/LearningNotes)
+    - Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等
+    - [阅读地址](http://moxi159753.gitee.io/learningnotes/)
 - [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent)
     - RedSpider社区成员原创与维护的Java多线程系列文章。
     - [阅读地址](http://concurrent.redspider.group/RedSpider.html)
@@ -66,9 +72,15 @@ A collection of awesome things.
     - 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
     - [Docs](https://langhsu.github.io/mblog/#/)
     - Clone: `git clone git@github.com:langhsu/mblog.git`
+- [Zoctan/spring-boot-vue-admin](https://github.com/Zoctan/spring-boot-vue-admin)
+    - 前端Vue + 后端Spring Boot 完全分离的用户角色管理模板
+    - Clone: `git clone git@github.com:Zoctan/spring-boot-vue-admin.git`
 
 ## Codes
 
+- [binzh303/spring-boot-route](https://github.com/binzh303/spring-boot-route)
+    - Spring Boot 相关示例代码。Spring Boot 技术栈学习分享，涵盖了基础知识、Web开发、数据访问、缓存服务、消息队列、日志管理、服务监控、定时任务及其他的一些相关知识。
+    - [Blog](https://javatip.cn/)
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
     - 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成 ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP + Guava RateLimiter)、分布式限流(AOP + Redis + Lua)、ElasticSearch 7.x(使用官方 Rest High Level Client)、HTTPS、Flyway(数据库初始化)、UReport2(中国式复杂报表)。
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
@@ -88,6 +100,8 @@ A collection of awesome things.
 - [justauth/JustAuth](https://github.com/justauth/JustAuth)
     - 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
     - [Docs](https://justauth.wiki/)
+- [mars05/crud-intellij-plugin](https://github.com/mars05/crud-intellij-plugin)
+    - 一个增删改查的idea插件，可以根据数据库表结构，帮助您快速生成model、dao、service、controller等相关代码。同时支持MyBatis、JPA、MybatisPlus
 - [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath)
     - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
 - [xfangfang/Macast](https://github.com/xfangfang/Macast)
@@ -95,6 +109,8 @@ A collection of awesome things.
     - [官网](https://xfangfang.github.io/Macast/README_ZH.html)
     - [下载地址](https://gitee.com/xfangfang/Macast/releases/)
     - [介绍](https://www.appinn.com/macast/)
+- [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J)
+    - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
 
 ## READMEs
 
