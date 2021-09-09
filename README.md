@@ -75,6 +75,15 @@ A collection of awesome things.
 - [Zoctan/spring-boot-vue-admin](https://github.com/Zoctan/spring-boot-vue-admin)
     - 前端Vue + 后端Spring Boot 完全分离的用户角色管理模板
     - Clone: `git clone git@github.com:Zoctan/spring-boot-vue-admin.git`
+- [WinterChenS/my-site](https://github.com/WinterChenS/my-site)
+    - springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品
+    - [Website](http://winterchen.com:8089/)
+    - Clone: `git clone git@github.com:WinterChenS/my-site.git`
+- [shopizer-ecommerce/shopizer](https://github.com/shopizer-ecommerce/shopizer)
+    - Shopizer java e-commerce software
+    - [Website](https://www.shopizer.com/)
+    - Clone: `git clone git@github.com:shopizer-ecommerce/shopizer.git`
+
 
 ## Codes
 
@@ -109,6 +118,8 @@ A collection of awesome things.
     - [官网](https://xfangfang.github.io/Macast/README_ZH.html)
     - [下载地址](https://gitee.com/xfangfang/Macast/releases/)
     - [介绍](https://www.appinn.com/macast/)
+- [houbb/segment](https://github.com/houbb/segment)
+    - The jieba-analysis tool for java.（基于结巴分词词库实现的更加灵活优雅易用，高性能的 java 分词实现。支持词性标注。）
 - [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J)
     - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
 
