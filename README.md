@@ -43,6 +43,8 @@ A collection of awesome things.
     - [阅读地址](http://turnon.gitee.io/javacore/)
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial)
     - [阅读地址](https://turnon.gitee.io/java-tutorial/)
+- [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily)
+    - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
     - Java 程序员进阶之路，风趣幽默、通俗易懂，对 Java 初学者极度友好和舒适，内容包括但不限于 Java 语法、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机等核心知识点。
     - [阅读地址](https://itwanger.gitee.io/tobebetterjavaer)
@@ -120,6 +122,8 @@ A collection of awesome things.
     - [介绍](https://www.appinn.com/macast/)
 - [houbb/segment](https://github.com/houbb/segment)
     - The jieba-analysis tool for java.（基于结巴分词词库实现的更加灵活优雅易用，高性能的 java 分词实现。支持词性标注。）
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+    - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J)
     - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
 
