@@ -8,6 +8,7 @@ A collection of awesome things.
 * [Projects](#projects)
 * [Codes](#codes)
 * [Tools](#tools)
+* [Skills](#skills)
 * [READMEs](#readmes)
 * [License](#license)
 
@@ -129,6 +130,12 @@ A collection of awesome things.
     - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J)
     - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
+
+## Skills
+
+- [CodingDocs/awesome-idea-tutorial](https://github.com/CodingDocs/awesome-idea-tutorial)
+    - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。
+    - [Gitee](https://gitee.com/SnailClimb/awesome-idea-tutorial)
 
 ## READMEs
 
