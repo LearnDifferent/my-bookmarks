@@ -117,6 +117,12 @@ A collection of awesome things.
     - [Docs](https://justauth.wiki/)
 - [mars05/crud-intellij-plugin](https://github.com/mars05/crud-intellij-plugin)
     - 一个增删改查的idea插件，可以根据数据库表结构，帮助您快速生成model、dao、service、controller等相关代码。同时支持MyBatis、JPA、MybatisPlus
+- [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)
+    - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+    - [Demo](http://www.cnocrlite.com:8088/)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+    - the only cheat sheet you need
+    - [Website](cheat.sh/)
 - [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath)
     - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
 - [xfangfang/Macast](https://github.com/xfangfang/Macast)
@@ -136,6 +142,10 @@ A collection of awesome things.
 - [CodingDocs/awesome-idea-tutorial](https://github.com/CodingDocs/awesome-idea-tutorial)
     - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。
     - [Gitee](https://gitee.com/SnailClimb/awesome-idea-tutorial)
+- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+    - Git飞行规则(Flight Rules)
+    - [阅读地址](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+
 
 ## READMEs
 
