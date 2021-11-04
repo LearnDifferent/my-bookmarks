@@ -8,6 +8,7 @@ A collection of awesome things.
 * [Projects](#projects)
 * [Codes](#codes)
 * [Tools](#tools)
+* [Algorithms](#algorithms)
 * [Skills](#skills)
 * [READMEs](#readmes)
 * [License](#license)
@@ -136,6 +137,13 @@ A collection of awesome things.
     - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J)
     - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
+
+## Algorithms
+
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+    - 算法、刷题、Leetcode
+    - [Website](https://labuladong.gitee.io/algo/)
+    - 公众号：labuladong
 
 ## Skills
 
