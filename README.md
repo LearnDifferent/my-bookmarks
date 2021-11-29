@@ -68,6 +68,12 @@ A collection of awesome things.
     - Describe complex matters in simple doodles. 编程涂鸦合集（一图胜千言），主要创作了包含数据结构与算法、Web 开发、机器学习等编程领域的涂鸦作品，其中有部分被应用到了微软的开源教程
 - [rbmonster/learning-note](https://github.com/rbmonster/learning-note)
     - java开发 面试八股文（个人的面试及工作总结）
+- [google/eng-practices](https://github.com/google/eng-practices)
+    - 《Google 工程实践文档》（Google's Engineering Practices documentation）是 Google 工程师长期累积的最佳实践，用于帮助更多开发者完成代码审查工作，为项目代码提供标准参考
+    - [中文版](https://jimmysong.io/eng-practices/)
+- [tinyclub/open-shell-book](https://github.com/tinyclub/open-shell-book)
+    - 以面向“对象” 的方式引入大量的实例介绍 Shell 日常操作
+    - [阅读地址](https://tinylab-1.gitbook.io/shellbook/)
 
 ## Projects
 
@@ -144,6 +150,8 @@ A collection of awesome things.
     - 算法、刷题、Leetcode
     - [Website](https://labuladong.gitee.io/algo/)
     - 公众号：labuladong
+- [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
+    - 知名大厂的 LeetCode 题目
 
 ## Skills
 
