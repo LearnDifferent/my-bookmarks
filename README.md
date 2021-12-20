@@ -18,6 +18,10 @@ A collection of awesome things.
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
     - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
     - [阅读地址](https://snailclimb.gitee.io/javaguide/#/)
+- [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding)
+    - [阅读地址](https://www.r2coding.com/#/)
+- [liyupi/code-roadmap](https://github.com/liyupi/code-roadmap)
+    - [阅读地址](https://luxian.yupi.icu/)
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
     - To Be Top Javaer - Java工程师成神之路
     - [阅读地址](http://hollischuang.gitee.io/tobetopjavaer)
