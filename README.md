@@ -41,6 +41,9 @@ A collection of awesome things.
     - [阅读地址](http://notfound9.github.io/interviewGuide/)
 - [crisxuan/bestJavaer](https://github.com/crisxuan/bestJavaer)
     - 这是一个成为更好的Java程序员的系列教程
+- [rapharino/tech-arch-doc](https://github.com/rapharino/tech-arch-doc)
+    - Java 全栈知识体系
+    - [阅读地址](https://pdai.tech/)
 - [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial)
     - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章
     - [阅读地址](https://how2playlife.com/)
