@@ -173,6 +173,7 @@ A collection of awesome things.
 ## READMEs
 
 - [mrin9/Angular-SpringBoot-REST-JWT](https://github.com/mrin9/Angular-SpringBoot-REST-JWT)
+- [zhulinn/SpringBoot-Angular7-Online-Shopping-Store](https://github.com/zhulinn/SpringBoot-Angular7-Online-Shopping-Store)
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics): 
     - [README](https://github.com/sqshq/piggymetrics#readme)
 - [spring-petclinic/spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices):
