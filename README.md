@@ -173,7 +173,13 @@ A collection of awesome things.
 ## READMEs
 
 - [mrin9/Angular-SpringBoot-REST-JWT](https://github.com/mrin9/Angular-SpringBoot-REST-JWT)
+    - [README](https://github.com/mrin9/Angular-SpringBoot-REST-JWT#readm)
 - [zhulinn/SpringBoot-Angular7-Online-Shopping-Store](https://github.com/zhulinn/SpringBoot-Angular7-Online-Shopping-Store)
+    - [README](https://github.com/zhulinn/SpringBoot-Angular7-Online-Shopping-Store#readm)
+- [XiaoMi/shepher](https://github.com/XiaoMi/shepher)
+    - [README](https://github.com/XiaoMi/shepher#readme)
+- [lukaszwoznica/chatter](https://github.com/lukaszwoznica/chatter)
+    - [README](https://github.com/lukaszwoznica/chatter#readme)
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics): 
     - [README](https://github.com/sqshq/piggymetrics#readme)
 - [spring-petclinic/spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices):
