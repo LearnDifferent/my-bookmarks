@@ -44,6 +44,9 @@ A collection of awesome things.
 - [rapharino/tech-arch-doc](https://github.com/rapharino/tech-arch-doc)
     - Java 全栈知识体系
     - [阅读地址](https://pdai.tech/)
+- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+    - Design patterns implemented in Java
+    - [阅读地址](https://java-design-patterns.com/)
 - [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial)
     - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章
     - [阅读地址](https://how2playlife.com/)
