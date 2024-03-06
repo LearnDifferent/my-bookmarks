@@ -95,6 +95,11 @@ A collection of awesome things.
     - 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
     - [Docs](https://langhsu.github.io/mblog/#/)
     - Clone: `git clone git@github.com:langhsu/mblog.git`
+- [zccbbg/wms-ruoyi](https://github.com/zccbbg/wms-ruoyi) （后端）& [zccbbg/RuoYi-WMS-VUE](https://github.com/zccbbg/RuoYi-WMS-VUE) （前端）
+    - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
+    - [Docs](https://docs.ichengle.top/wms/knowledge/)
+    - [Website](http://wms.ichengle.top)
+    - Clone: `git clone git@github.com:zccbbg/wms-ruoyi.git` 和 `git clone git@github.com:zccbbg/RuoYi-WMS-VUE.git`
 - [Zoctan/spring-boot-vue-admin](https://github.com/Zoctan/spring-boot-vue-admin)
     - 前端Vue + 后端Spring Boot 完全分离的用户角色管理模板
     - Clone: `git clone git@github.com:Zoctan/spring-boot-vue-admin.git`
