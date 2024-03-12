@@ -87,10 +87,17 @@ A collection of awesome things.
 
 ## Projects
 
-- [yangzongzhuan/RuoYi-Cloud](https://github.com/yangzongzhuan/RuoYi-Cloud)
-    - 若依是一套全部开源的快速开发平台，是基于Spring Boot、Spring Cloud & Alibaba的分布式微服务架构权限管理系统
+- 若依 / RuoYi
     - [Docs](https://ruoyi.vip/)
-    - Clone: `git clone git@github.com:yangzongzhuan/RuoYi-Cloud.git`
+    - 若依是一套全部开源的快速开发平台
+        - 微服务版本：
+            - [yangzongzhuan/RuoYi-Cloud](https://github.com/yangzongzhuan/RuoYi-Cloud)
+            - 基于Spring Boot、Spring Cloud & Alibaba的分布式微服务架构权限管理系统
+            - Clone: `git clone git@github.com:yangzongzhuan/RuoYi-Cloud.git`
+        - 前后端分离版本：
+            - [yangzongzhuan/RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue)
+            - 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
+            - Clone: `git clone git@github.com:yangzongzhuan/RuoYi-Vue.git`
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat)
     - 一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
     - [Docs](http://www.ballcat.cn/)
